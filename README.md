@@ -136,7 +136,7 @@ def kmeans(cluster, x, y, px, py, itr):
 - P adalah titik centroid.
 - Data maupun centroid dipisah nilai x dan y untuk mempermudah komputasi.
 
-## Contoh Kasus
+## Contoh Kasus 🎯
 ![image](https://user-images.githubusercontent.com/97395139/197446298-b1d00c7d-8c85-4a76-8f82-67246d9db782.png)
 
 ## Contoh untuk 2 cluster 🏃‍♂️
