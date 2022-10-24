@@ -131,9 +131,9 @@ def kmeans(cluster, x, y, px, py, itr):
     kmeans(cluster, x, y, pxnew, pynew, itr)
 ```
 ##### Sebagai catatan:
-- D adalah matriks jarak dari setiap data dengan setiap centroids
+- D adalah matriks jarak dari setiap data dengan setiap centroids.
 - G adalah matriks clustering, jika bernilai 1 maka termasuk termasuk cluster X.
-- P adalah titik centroid
+- P adalah titik centroid.
 - Data maupun centroid dipisah nilai x dan y untuk mempermudah komputasi.
 
 ## Contoh untuk 2 cluster 🏃‍♂️
