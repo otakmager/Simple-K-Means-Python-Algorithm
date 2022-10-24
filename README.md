@@ -27,7 +27,7 @@ dari 1 cluster secara eksklusif.
 3. Dalam project ini tidak terdapat normalisasi jika range data terlalu besar.
 
 ## Import Library 📚
-Project ini dijalankan dengan melakukan beberapa library, diantaranya sebagai berikut.
+Project ini dijalankan dengan meng-import beberapa library, diantaranya sebagai berikut.
 
 ```sh
 import numpy as np
